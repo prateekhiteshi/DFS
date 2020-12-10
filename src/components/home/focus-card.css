@@ -1,0 +1,45 @@
+.focus-card {
+  margin-top: 20px;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.focus-card .card-title {
+  margin-bottom: 40px;
+}
+
+.focus-card .extraShadow h4 {
+  font-size: 16px;
+  color: #FD771D;
+}
+
+.focus-card .card, .how-we-work .card {
+  margin-bottom: 10px;
+}
+
+.focus-card p, .how-we-work p {
+  font-size: 14px;
+  font-weight: 200;
+  margin: 0;
+}
+
+.head-txt{
+  position: relative;
+  margin-bottom: 50px;
+}
+.head-txt::before{
+  content: '';
+  width: 175px;
+  height: 3px;
+  background-color: #2D4059;
+  position: absolute;
+  bottom: 12px;
+  left: 59px;
+}
+.head-txt h2{
+  color: #4A4A4A;
+  font-size: 22px;
+  line-height: 60px;
+  font-weight: 600;
+  text-transform: capitalize;
+}

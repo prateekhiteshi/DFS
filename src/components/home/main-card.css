@@ -1,0 +1,14 @@
+.main-card .card{
+  margin-top: -50px;
+  height: 180px;
+  border-radius: 5px;
+}
+
+.main-card .mh4 {
+  font-size: 16px;
+}
+
+.main-card .mp {
+  font-size: 14px;
+  font-weight: 200;
+}

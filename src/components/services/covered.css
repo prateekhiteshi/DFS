@@ -1,0 +1,41 @@
+.covered {
+  margin-bottom: 20px;
+}
+
+.covered h4 {
+  margin: 0;
+  padding: 0;
+  font-weight: 700;
+  color: #2D4059;
+}
+
+.focus {
+  color: #FD771D;
+}
+
+.covered ul {
+  margin-top: 15px;
+  margin-left: 18px;
+  list-style: none;
+}
+
+.covered ul > li {
+  position: relative;
+}
+
+.covered ul > li > p {
+  margin: 6px;
+  color: #2D4059;
+}
+
+.covered ul > li > p::before {
+  content: "\2022";
+  color: #28394F;
+  font-weight: bold;
+  display: inline-block;
+  width: 1em;
+  font-size: 35px;
+  position: absolute;
+  left: -13px;
+  top: -14px;
+}

@@ -1,0 +1,24 @@
+.single {
+  width: 85%;
+}
+
+.tech-main {
+  margin-top: 50px;
+}
+
+.tech-main h6 {
+  margin: 0;
+  margin-bottom: 4px;
+}
+
+.tech-main .horizontal {
+  background: #28394F;
+  width: 100px;
+  height: 2px;
+  margin-bottom: 15px;
+}
+
+
+.tech-main .img-card img{
+  width: 180px;
+}

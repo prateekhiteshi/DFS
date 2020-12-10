@@ -1,0 +1,35 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color:#F9F9F9;
+}
+h1,h2,h3,h4,h5,h6,p,ul,ol{
+  padding: 0;
+  margin: 0;
+  color: #2D4059;
+}
+a,a:hover{
+  text-decoration: none;
+}
+.btn.focus, .btn:focus{
+  box-shadow: none;
+}
+
+.background {
+  background: #F9F9F9;
+  padding-bottom: 50px;
+  padding-top: 130px;
+  width: 100%;
+}
+
+.extraShadow {
+  box-shadow: 2px 2px 4px #2D40592B;
+  border-radius: 15px;
+}
+
+.extraShadow img {
+  margin-bottom: 15px;
+}
+
+.focus {
+  color: #FD771D;
+}

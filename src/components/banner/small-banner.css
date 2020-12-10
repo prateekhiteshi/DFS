@@ -1,0 +1,32 @@
+.small-banner {
+  background: #2D4059;
+  padding-top: 30px;
+  padding-bottom: 15px;
+  color: #fff;
+  width: auto;
+}
+
+.small-banner .container1 {
+  margin-left: 20%;
+  margin-right: 10%;
+}
+
+.banner-ul {
+  list-style: none;
+}
+
+.banner-ul > li {
+  display: inline-flex;
+  margin-right: 10px;
+  position: relative;
+}
+
+.banner-ul > li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.banner-ul > .circle {
+  font-size: 20px;
+  color: #fff;
+}

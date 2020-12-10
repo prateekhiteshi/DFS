@@ -1,0 +1,32 @@
+.service-available {
+  background: #2D4059;
+  padding: 20px;
+}
+
+.service-available .cards {
+  width: 60%;
+  margin-left: 20%;
+  padding-bottom: 20px;
+}
+
+.service-available .card1 {
+  border: 1px solid #fff;
+  border-radius: 10px;
+  padding-top: 15px;
+}
+
+.service-available h3 {
+  font-weight: 400;
+  line-height: 2;
+  color: #fff;
+}
+
+.service-available p {
+  font-weight: 300;
+  line-height: 2;
+  color: #fff;
+}
+
+.height60 {
+  height: 60px;
+}

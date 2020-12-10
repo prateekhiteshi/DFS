@@ -1,0 +1,66 @@
+.benifites {
+
+}
+
+.benifites h4 {
+  font-weight: 400;
+  line-height: 40px;
+}
+
+.benifites h4 > span {
+  font-weight: 500;
+}
+
+.benifites p {
+  font-weight: 400;
+  margin: 0;
+  color: #2D4059;
+}
+
+.benifites .title{
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.benifites ul {
+  list-style: none; /* Remove default bullets */
+}
+
+.benifites ul > li {
+  position: relative;
+}
+
+.benifites ul > li > p::before {
+  content: "\2022";
+  color: #FD771D;
+  font-weight: bold;
+  display: inline-block;
+  width: 1em;
+  font-size: 40px;
+  position: absolute;
+  left: -20px
+}
+
+.benifites ul > li {
+  font-weight: 300;
+  line-height: 30px;
+}
+
+.scope {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.scope h4 {
+  color: #2D4059;
+}
+
+.scope p {
+  line-height: 20px;
+  color: #2D4059;
+}
+
+.scope img {
+  width: 100%;
+}

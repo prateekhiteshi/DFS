@@ -1,0 +1,95 @@
+.work-cost {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.work-cost h4 {
+  font-size: 30px;
+  font-weight: 400;
+  color: #2D4059;
+}
+
+.work-cost p {
+  font-weight: 400;
+  margin: 0;
+  color: #2D4059;
+}
+
+.work-cost .martop {
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+
+.work-cost .card-body {
+  padding: 0;
+  padding-top: 10px;
+}
+
+.work-cost img {
+  width: 50px;
+}
+
+.cost {
+  margin-top: 30px;
+}
+
+.cost h4 {
+  font-size: 30px;
+  font-weight: 400;
+  margin: 0;
+  margin-bottom: 15px;
+  color: #FD771D;
+}
+
+.cost .martop20 {
+  margin-top: 20px;
+}
+
+.cost p{
+  font-size: 14px;
+  font-weight: 300;
+  color: #2D4059;
+}
+
+.cost .martb10 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.cost .cost-content > p{
+  font-weight: 400;
+  font-size: 16px;
+  margin-bottom: 15px;
+  color: #2D4059;
+}
+
+.cost h6 {
+  font-weight: 300;
+  margin: 10px;
+  color: #2D4059;
+}
+
+.book {
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
+
+.book h4 {
+  font-size: 22px;
+  margin-bottom: 15px;
+}
+
+.book .btn-styled {
+  background-color: #FD771D;
+  color: #FFFFFF;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 34px;
+  border-radius: 30px;
+  padding: 10px 30px;
+}
+
+.book .btn-styled:hover {
+  color: #fff;
+}

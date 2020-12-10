@@ -1,0 +1,61 @@
+.footer{
+  background: #2D4059;
+  padding-top: 50px;
+}
+
+
+.p-title {
+  color:#fff;
+
+  font-weight:600;
+}
+.paragraphTxt{
+  color:#fff;
+  font-size: 14px;
+  font-weight: normal;
+  letter-spacing: 0.57px;
+}
+
+.paragraphTxt > a{
+  color:#fff;
+  text-decoration: none;
+}
+
+.paragraphTxt > a:hover{
+  color:#fff;
+  text-decoration: none;
+}
+
+.companyName {
+  color:#fff;
+  font-size: 22px;
+  margin-top: 15px;
+}
+
+.footer .get-connected {
+  color: #fff;
+  font-weight: 500;
+  font-size: 18px;
+  margin-top: 50px;
+  margin-bottom: 25px;
+}
+
+.footer svg {
+  margin: 5px;
+  width: 30px;
+}
+
+.footer-menu {
+  margin-bottom: 20px;
+}
+
+.footer-end {
+  padding: 10px;
+  text-align: center;
+  background: #394C65;
+}
+
+.footer-end p {
+  margin: 0;
+  color: #fff;
+}

@@ -1,0 +1,41 @@
+.tech-main {
+  margin-top: 50px;
+}
+
+.tech-main h6 {
+  margin: 0;
+  margin-bottom: 4px;
+}
+
+.tech-main .horizontal {
+  background: #28394F;
+  width: 100px;
+  height: 2px;
+  margin-bottom: 15px;
+}
+
+.mb5 {
+  margin-bottom: 5px;
+}
+
+.plr {
+  padding-right: 2px;
+  padding-left: 2px;
+}
+
+.multiple-img {
+  margin-bottom: 10px;
+}
+
+.card-td {
+  width: 120px;
+}
+
+.imgtable {
+  width: 100%;
+}
+
+.tech .col-lg-2, .tech .col-md-2 {
+  padding-right: 0;
+  padding-left: 0px;
+}
